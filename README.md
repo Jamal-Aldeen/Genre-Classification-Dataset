@@ -3,6 +3,9 @@
 ## Overview
 This project classifies movie genres using Naive Bayes and Logistic Regression models.
 
+## Dataset 
+https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb
+
 ## Files
 - `train_data.txt`: Training data with movie titles, genres, and descriptions.
 - `test_data.txt`: Test data with movie titles and descriptions.
